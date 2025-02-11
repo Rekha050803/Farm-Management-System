@@ -43,12 +43,12 @@ A **Farm Management System** designed to facilitate online transactions between 
 -Open XAMPP and start MySQL
 -Import database.sql into MySQL
 -Update app.py with your MySQL credentials.
-3.Run the Flask application:
+3. Run the Flask application:
 ```sh
 python app.py
 ```
-4.Open your browser and visit:
-```
+4. Open your browser and visit:
+```sh
 http://127.0.0.1:5000/
 ```
 ---
