@@ -10,7 +10,7 @@ A **Farm Management System** designed to facilitate online transactions between 
 - 🏪 Buyers can browse and purchase agricultural products.
 - 🔒 Secure login system with user authentication.
 - 📊 Centralized farmer and seller database.
-- 🛠️ User-friendly interface with a graphical dashboard.
+- 🛠️ User-friendly interface.
 - 📍 Database management with MySQL.
 
 ---
