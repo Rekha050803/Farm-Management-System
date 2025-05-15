@@ -6,12 +6,12 @@ A **Farm Management System** designed to facilitate online transactions between 
 
 ## 🚀 Features
 
-- 🛒 Farmers can list and sell their agro-products online.
-- 🏪 Buyers can browse and purchase agricultural products.
-- 🔒 Secure login system with user authentication.
-- 📊 Centralized farmer and seller database.
-- 🛠️ User-friendly interface.
-- 📍 Database management with MySQL.
+- Farmers can list and sell their agro-products online.
+- Buyers can browse and purchase agricultural products.
+- Secure login system with user authentication.
+- Centralized farmer and seller database.
+- User-friendly interface.
+- Database management with MySQL.
 
 ---
 
