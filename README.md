@@ -58,16 +58,27 @@ http://127.0.0.1:5000/
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/Home%20page.png)
 
 2. Sign Up
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/sign%20up.png)
-4. Register Farmers
+
+3. Register Farmers
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Register%20Farmer%20details.png)
-5. Add Products
+
+4. Add Products
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Add%20product.png)
-6. View Products
+
+5. View Products
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Agro%20products.png)
-7. Add Farming
+
+6. Add Farming
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/add%20farming.png)
-8. Triggers
+
+7. Triggers
+   
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Triggers.png)
 
 
