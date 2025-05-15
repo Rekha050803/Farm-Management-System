@@ -52,8 +52,21 @@ python app.py
 http://127.0.0.1:5000/
 ```
 ---
-## Output Screenshots
+## 📷 Output Screenshots
+1. Home Page
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/Home%20page.png)
+2. Sign Up
 ![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/sign%20up.png)
+3. Register Farmers
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Register%20Farmer%20details.png)
+4. Add Products
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Add%20product.png)
+5. View Products
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Agro%20products.png)
+6. Add Farming
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/add%20farming.png)
+7. Triggers
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Triggers.png)
 
 
 
