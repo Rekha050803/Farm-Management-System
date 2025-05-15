@@ -55,7 +55,7 @@ http://127.0.0.1:5000/
 ## 📷 Output Screenshots
 1. Home Page
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/Home%20page.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/b90d797722707e5919b93818de87c008e1b7cfe9/Farm%20management%20system/output-screenshots/Home%20Page.png)
 
 2. Sign Up
    
