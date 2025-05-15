@@ -52,6 +52,10 @@ python app.py
 http://127.0.0.1:5000/
 ```
 ---
+<p>
+  <img src="https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/Home%20page.png" width="300" />
+  <img src="https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/sign%20up.png"width="300" />
+</p>
 
 
 
