@@ -59,27 +59,27 @@ http://127.0.0.1:5000/
 
 2. Sign Up
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/03996fb7f4771828a350185e22c2621c7ac74c36/Farm%20management%20system/output-screenshots/sign%20up.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/Sign%20Up.png)
 
 3. Register Farmers
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Register%20Farmer%20details.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/Register%20Farmers.png)
 
 4. Add Products
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Add%20product.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/Add%20Products.png)
 
 5. View Products
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Agro%20products.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/View%20Products.png)
 
 6. Add Farming
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/add%20farming.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/Add%20Farming.png)
 
 7. Triggers
    
-![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/ffffadc5f8ea7555000ed3d281d3cb30210a9b28/Farm%20management%20system/output-screenshots/Triggers.png)
+![img alt](https://github.com/Rekha050803/Farm-Management-System/blob/f32379fbc03b7da6289ae7e36c0e33ad7f5d232e/Farm%20management%20system/output-screenshots/Triggers.png)
 
 
 
